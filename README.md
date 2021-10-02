@@ -4,7 +4,7 @@
 
 ## Analysis: Months April through July prove to be the most favorable times of year to fund a Theater campaign (see Theater Outcomes vs. Launch Month chart). More so, campaigns run during May and June, are more likely to be twice as successful as Failed funderaisers. Data also notes a steady decline in success starting in May through the end of the year (See Theater Outcomes by Launch Month table). Overall, failed campaigns typically have higher goals than successful ones, and average pledge amounts are lower than successful campaigns.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90878939/135371138-4fc2d11d-44b7-4d49-807c-478c1d9ab213.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90878939/135730592-9ec864f6-4ef2-47cd-84c2-182e5faf93d3.png)
 
 ## Digging deeper, data shows the quantity of Canceled campaigns is consistent across all twelve months, except for a gap from September to November where campaigns that may have been typically canceled might have been categorized as Failed. All things considered, Louise should target campaigns in May with funding targets of less than $1000 or, more appropriately, in the range of $3500 to $4500 (see Outcomes Based on Goal table).
 
