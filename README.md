@@ -10,7 +10,7 @@
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90878939/135371174-4891e756-ae59-4cd9-9c50-6f7a01a5bbb7.png)
 
-### Challenges: My first challenge was grouping Row data in order to capture workable data groups. I experimented with Excel before using the “Hint” lifeline and Google-ing some additional information on how to effectively manage large sets of data. I also could not find a method to copy and paste COUNTIFS formulas across columns “Number Successful, Failed, and Canceled” and not having to manually adjust parameters in each cell. I updated each one (see image below).
+## Challenges: My first challenge was grouping Row data in order to capture workable data groups. I experimented with Excel before using the “Hint” lifeline and Google-ing some additional information on how to effectively manage large sets of data. I also could not find a method to copy and paste COUNTIFS formulas across columns “Number Successful, Failed, and Canceled” and not having to manually adjust parameters in each cell.
 
 ## Results: 
 - In general, there’s an inverse relationship between successful and failed theater campaigns. With that said, our client should target launching funding campaigns in May. There seems to be a correlation between canceled campaigns in months September through November and a spike in failed campaigns during those same months.
