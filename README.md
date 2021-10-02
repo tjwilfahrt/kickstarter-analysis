@@ -6,7 +6,7 @@
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90878939/135730592-9ec864f6-4ef2-47cd-84c2-182e5faf93d3.png)
 
-## Digging deeper, data shows the quantity of Canceled campaigns is consistent across all twelve months, except for a gap from September to November where campaigns that may have been typically canceled might have been categorized as Failed. All things considered, Louise should target campaigns in May with funding targets of less than $1000 or, more appropriately, in the range of $3500 to $4500 (see Outcomes Based on Goal table).
+### Digging deeper, data shows the quantity of Canceled campaigns is consistent across all twelve months, except for a gap from September to November where campaigns that may have been typically canceled might have been categorized as Failed. All things considered, Louise should target campaigns in May with funding targets of less than $1000 or, more appropriately, in the range of $3500 to $4500 (see Outcomes Based on Goal table).
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90878939/135371174-4891e756-ae59-4cd9-9c50-6f7a01a5bbb7.png)
 
